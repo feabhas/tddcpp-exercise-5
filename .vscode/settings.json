@@ -25,5 +25,5 @@
     "gtest-adapter.debugConfig": [
         "(gdb) Launch"
     ],
-    "gtest-adapter.supportLocation": true
+    "gtest-adapter.supportLocation": false
 }
